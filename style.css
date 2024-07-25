@@ -6,13 +6,7 @@ body{
     background-size: cover;
 }
 
-@media screen and (max-width: 400px) {
-    body{
-    background-image: url("img.avif");
-    background-repeat: no-repeat;
-    background-size: cover;
-    }
-}
+
 .container{
    
     display: flex;
